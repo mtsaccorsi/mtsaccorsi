@@ -7,8 +7,6 @@
 
 - 👨🏻‍💻 Atualmente trabalho no [Westwing](https://www.linkedin.com/company/westwing-brasil/)
 
-- 📱 Eu (não) posto regularmente no [Instagram](https://www.instagram.com/mtsaccorsi/) e [TikTok](https://www.tiktok.com/@mtsaccorsi)
-
 - 👽 Fato curioso: **também sou [ator/dublador](https://vimeo.com/mtsaccorsi) 🎙**
 
 <!--
