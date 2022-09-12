@@ -1,4 +1,4 @@
-<h1 align="left">Wazzup! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Aqui é o Math.</h1>
+<h1 align="left">Wazzup! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30px"> Aqui é o Math.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsaccorsi&color=yellow" alt="Profile views" /> </p>
 
 - 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**
