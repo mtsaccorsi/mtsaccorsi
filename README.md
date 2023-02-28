@@ -3,8 +3,6 @@
 
 - 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**
 
-- 👊🏻 Membro fundador da [irmandadeSwift](https://www.irmandadeswift.com/)
-
 - 👨🏻‍💻 Atualmente trabalho no [Westwing](https://www.linkedin.com/company/westwing-brasil/)
 
 - 👽 Fato curioso: **também sou [ator/dublador](https://vimeo.com/mtsaccorsi) 🎙**
