@@ -1,4 +1,4 @@
-<h1 align="left">E aí! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Aqui é o Math.</h1>
+<h1 align="left">E aí! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Aqui é o Math.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsaccorsi&color=yellow" alt="Profile views" /> </p>
 
 - 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**
