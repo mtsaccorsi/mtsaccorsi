@@ -1,11 +1,11 @@
 <h1 align="left">E aí! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30" height="30px"> Aqui é o Math. <i>[má.ti]</i></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsaccorsi&color=yellow" alt="Profile views" /> </p>
 
-- 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**
+- 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**;
 
-- 👨🏻‍💻 Atualmente trabalho no [Westwing](https://www.linkedin.com/company/westwing-brasil/)
+- 👨🏻‍💻 Atualmente trabalho no [Westwing](https://www.linkedin.com/company/westwing-brasil/);
 
-- 👽 Fato curioso: **também sou [ator/dublador](https://vimeo.com/mtsaccorsi) 🎙**
+- 👽 Fato curioso: **também sou [ator/dublador](https://vimeo.com/mtsaccorsi) 🎙**.
 
 <!--
 <br><br>
