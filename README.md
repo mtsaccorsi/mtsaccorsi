@@ -27,21 +27,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <!-- img width="530em" src="https://github-readme-stats.vercel.app/api?username=mtsaccorsi&show_icons=true&theme=vision-friendly-dark" alt="mtsaccorsi's stats"/ -->
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsaccorsi&layout=compact&theme=vision-friendly-dark" alt="mtsaccorsi's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsaccorsi&layout=compact&theme=dracula" alt="mtsaccorsi's most languages"/>
 </p>
 
 <br><br>
-
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/mtsaccorsi" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mtsaccorsi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/mtsaccorsi" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mtsaccorsi-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mtsaccorsi/)
+
 
 <!--
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=mtsaccorsi&layout=wide&show_reply=off&show_retweet=off" />
