@@ -3,7 +3,7 @@
 
 - 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**;
 
-- 👨🏻‍💻 Atualmente trabalho no [Westwing](https://www.linkedin.com/company/westwing-brasil/);
+- 👨🏻‍💻 Atualmente trabalho na [e-Core](https://www.linkedin.com/company/e-core/);
 
 - 👽 Fato curioso: **também sou [ator/dublador](https://vimeo.com/mtsaccorsi) 🎙**.
 
