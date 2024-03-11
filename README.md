@@ -3,7 +3,7 @@
 
 - 🚀 Me aventurando no universo **iOS** com desenvolvimento **SwiftUI**;
 
-- 👨🏻‍💻 Atualmente trabalho na [e-Core](https://www.linkedin.com/company/e-core/);
+- 👨🏻‍💻 Atualmente trabalho na [e-Core](https://www.linkedin.com/company/e-core/) / [Atlassian](https://www.linkedin.com/company/atlassian);
 
 - 👽 Fato curioso: **também sou [ator/dublador](https://vimeo.com/mtsaccorsi) 🎙**.
 
